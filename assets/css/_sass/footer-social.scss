@@ -34,6 +34,7 @@
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
+.fa-gitlab,
 .fa-orcid,
 .fa-researchgate,
 .fa-envelope {
@@ -69,12 +70,21 @@
   background: #fefefe;
   border-color: #007bb5;
 }
-
 .rounded-social-buttons .social-button.github {
   background: #000000;
 }
 
 .rounded-social-buttons .social-button.github:hover, .rounded-social-buttons .social-button.github:focus {
+  color: #000000;
+  background: #fefefe;
+  border-color: #000000;
+}
+
+.rounded-social-buttons .social-button.gitlab {
+  background: #000000;
+}
+
+.rounded-social-buttons .social-button.gitlab:hover, .rounded-social-buttons .social-button.gitlab:focus {
   color: #000000;
   background: #fefefe;
   border-color: #000000;

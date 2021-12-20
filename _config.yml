@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Raphael Tessmer
+description: Robotics Engineer | Los Angeles
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /home #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -17,18 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+linkedin: "raphael-tessmer"
+github: "ruffson"
+gitlab: "ruffson"
 
 highlighter: rouge
 markdown: kramdown
-
-# Tracker
-analytics:
 
 #optimization -> compress.html
 compress_html:

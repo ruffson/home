@@ -26,6 +26,15 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.gitlab -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'GitLab' }}"
+class="social-button gitlab"
+href="https://www.gitlab.com/{{ site.gitlab }}" itemprop="sameAs"
+target="_blank">
+<i class="fab fa-gitlab"></i>
+</a>
+{%- endif -%}
+
 {%- if site.researchgate -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
 class="social-button researchgate"
