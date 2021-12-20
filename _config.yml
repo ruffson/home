@@ -3,8 +3,8 @@
 title: Raphael Tessmer
 description: Robotics Engineer | Los Angeles
 
-baseurl: /home #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: / #name of GitHub repository
+url: "www.ruffson.com" #custom url to be used instead of GitHub repository
 email: #
 
 
