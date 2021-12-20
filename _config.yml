@@ -5,7 +5,7 @@ description: Robotics Engineer | Los Angeles
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email:  rt_public@mailbox.org
 
 
 highlighter: rouge
